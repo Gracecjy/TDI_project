@@ -1,0 +1,11 @@
+Description of Data Source:
+1. The Million Song Dataset: a freely-available collection of audio features and metadata for a million contemporary popular music tracks.
+   Website: https://labrosa.ee.columbia.edu/millionsong/
+   Subset Size: 1.8 GB
+
+2. lyrics.csv: downloaded from kaggle 
+   Website: https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics/data
+   Size: 99 MB
+
+3. Lyrics: Web Scrapped from www.azlyrics.com
+   Serve as a supplement for lyrics.csv
